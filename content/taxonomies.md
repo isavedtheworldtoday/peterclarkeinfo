@@ -1,9 +1,9 @@
 +++
-areas = []
-date = "2018-09-14T17:35:46+00:00"
+areas = ["GDPR","Fact finding"]
 draft = true
-functions = ["dssd"]
-skills = []
+functions = ["HR","Finance"]
+skills = ["Requirement gathering","Stakeholder interviews"]
+roles = ["Business analyst","Sytems analyst"
+organisations = ["The Financial Times"]
 title = "taxonomies"
-
 +++
