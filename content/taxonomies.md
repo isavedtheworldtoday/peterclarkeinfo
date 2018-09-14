@@ -1,6 +1,4 @@
 +++
-author= "Financial Times"
-date = "2018-04-01"
 title = "Taxonomies"
 
 skills = [
@@ -8,10 +6,14 @@ skills = [
     "Stakeholder Interviews",
 ]
 roles = [
-	"Business Analyst"
+	"Business Analyst",
+	"Systems Analyst",
+	"Business Systems Analyst"
 ]
 industries = [
-	"Media"
+	"Media",
+	"Automotive",
+	"Travel"
 ]
 functions = [
 	"Finance"
@@ -21,6 +23,8 @@ areas = [
 ]
 
 organisations = [
-	"The Financial Times"
+	"The Financial Times",
+	"Times UK",
+	"
 ]
 +++
