@@ -4,6 +4,9 @@ hide_body: false
 is_partial: true
 display_field: skills
 fields:
+- type: datetime
+  name: date
+  label: Date
 - type: tag_list
   label: Business functions
   name: functions
