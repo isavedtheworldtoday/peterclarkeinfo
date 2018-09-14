@@ -1,8 +1,7 @@
 +++
 author= "Financial Times"
 date = "2018-04-01"
-title = "Analysis of Sales commission systems"
-description = "Analysed a stalled project to implement a system for handling sales commissions and reconfirmed requirements."
+title = "Taxonomies"
 
 skills = [
     "Requirement gathering",
