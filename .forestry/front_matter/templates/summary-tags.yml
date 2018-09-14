@@ -16,3 +16,12 @@ fields:
 - type: tag_list
   label: Skills
   name: skills
+- type: list
+  name: industries
+  label: Industry
+  config:
+    use_select: true
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: skills
