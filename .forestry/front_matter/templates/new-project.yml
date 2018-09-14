@@ -8,4 +8,5 @@ fields:
   label: project tags
   name: project_tags
 pages:
+- content/taxonomies.md
 - content/post/test-project.md
