@@ -8,6 +8,7 @@ fields:
   label: project tags
   name: project_tags
 pages:
+- content/cytcuc.md
 - content/post/test2.md
 - content/taxonomies.md
 - content/post/test-project.md
