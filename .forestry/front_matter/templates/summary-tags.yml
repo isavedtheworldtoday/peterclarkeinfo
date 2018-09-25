@@ -24,4 +24,4 @@ fields:
     source:
       type: documents
       file: content/taxonomies.md
-      path: industries
+      path: skills
