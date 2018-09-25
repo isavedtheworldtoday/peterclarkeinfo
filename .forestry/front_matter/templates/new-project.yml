@@ -9,5 +9,4 @@ fields:
   name: project_tags
 pages:
 - content/post/test2.md
-- content/taxonomies.md
 - content/post/test-project.md
