@@ -1,0 +1,29 @@
+---
+label: Tag list template
+hide_body: true
+is_partial: false
+fields:
+- type: tag_list
+  name: roles
+  label: Roles
+  description: Job role
+- type: tag_list
+  name: company
+  label: Company
+  description: Company name
+- type: tag_list
+  label: Industry
+  name: industry
+  description: Business industry
+- type: tag_list
+  label: Business Function
+  name: business_function
+  description: Area/Department of the business worked in
+- type: tag_list
+  name: subject-matter
+  label: Subject matter
+  description: What was the purpose of the analysis
+- type: tag_list
+  name: skills
+  label: Skills
+  description: Skills
