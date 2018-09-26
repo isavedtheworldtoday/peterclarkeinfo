@@ -2,23 +2,59 @@
 label: Summary Tags
 hide_body: false
 is_partial: true
-display_field: skills
+display_field: organisation
 fields:
 - type: datetime
   name: date
   label: Date
-- type: tag_list
-  label: Business functions
-  name: functions
-- type: tag_list
-  name: areas
-  label: Areas
-- type: tag_list
-  label: Skills
-  name: skills
+- type: text
+  name: title
+  label: Title
+- type: select
+  name: role
+  config:
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: roles
+  label: Role
+- type: select
+  name: organisation
+  config:
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: organisations
+  label: Organisation
 - type: list
   name: industries
   label: Industry
+  config:
+    use_select: true
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: industries
+- type: select
+  name: functions
+  config:
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: functions
+  label: Business function
+- type: list
+  name: areas
+  label: Areas
+  config:
+    use_select: true
+    source:
+      type: documents
+      file: content/taxonomies.md
+      path: areas
+- type: list
+  name: skills
+  label: Skills
   config:
     use_select: true
     source:
