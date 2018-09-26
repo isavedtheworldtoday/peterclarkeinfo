@@ -60,3 +60,5 @@ fields:
       type: documents
       file: content/taxonomies.md
       path: skills
+pages:
+- content/post/Project.md
