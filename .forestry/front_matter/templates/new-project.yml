@@ -7,5 +7,3 @@ fields:
   template: summary-tags
   label: project tags
   name: project_tags
-pages:
-- content/post/test-project.md
