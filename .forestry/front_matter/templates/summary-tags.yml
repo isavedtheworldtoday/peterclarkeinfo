@@ -6,9 +6,6 @@ fields:
 - type: datetime
   name: date
   label: Date
-- type: text
-  name: title
-  label: Title
 - type: select
   name: role
   config:
