@@ -28,5 +28,4 @@ fields:
   label: Skills
   description: Skills
 pages:
-- content/post/Project.md
 - content/taxonomies.md
