@@ -1,8 +1,7 @@
 ---
-label: Summary Tags
+label: Project
 hide_body: false
-is_partial: true
-display_field: organisation
+is_partial: false
 fields:
 - type: datetime
   name: date
