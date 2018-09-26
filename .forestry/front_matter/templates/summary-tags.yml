@@ -60,5 +60,8 @@ fields:
       type: documents
       file: content/taxonomies.md
       path: skills
+- type: textarea
+  name: description
+  label: Description
 pages:
 - content/post/Project.md
