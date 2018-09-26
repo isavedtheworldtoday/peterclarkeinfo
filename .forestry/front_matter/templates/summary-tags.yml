@@ -7,7 +7,7 @@ fields:
   name: date
   label: Date
 - type: select
-  name: role
+  name: roles
   config:
     source:
       type: documents
@@ -15,7 +15,7 @@ fields:
       path: roles
   label: Role
 - type: select
-  name: organisation
+  name: organisations
   config:
     source:
       type: documents
