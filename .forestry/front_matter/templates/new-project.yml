@@ -1,9 +1,0 @@
----
-label: New project
-hide_body: false
-is_partial: false
-fields:
-- type: include
-  template: summary-tags
-  label: project tags
-  name: project_tags
