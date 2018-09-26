@@ -8,19 +8,19 @@ fields:
   label: Roles
   description: Job role
 - type: tag_list
-  name: company
+  name: companies
   label: Company
   description: Company name
 - type: tag_list
   label: Industry
-  name: industry
+  name: industries
   description: Business industry
 - type: tag_list
   label: Business Function
-  name: business_function
+  name: functions
   description: Area/Department of the business worked in
 - type: tag_list
-  name: subject-matter
+  name: areas
   label: Subject matter
   description: What was the purpose of the analysis
 - type: tag_list
