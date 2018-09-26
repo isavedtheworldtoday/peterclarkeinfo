@@ -8,8 +8,8 @@ fields:
   label: Roles
   description: Job role
 - type: tag_list
-  name: companies
-  label: Company
+  name: organisations
+  label: Organisation
   description: Company name
 - type: tag_list
   label: Industry
