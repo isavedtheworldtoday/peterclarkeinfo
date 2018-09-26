@@ -6,7 +6,7 @@ draft = true
 functions = ["Marketing"]
 industries = ["Media", "Travel"]
 organisations = ["Financial Times", "Aqovia", "Eurostar", "The Travel Corporation ", "World Challenge Expeditions ", "InterXion"]
-roles = ["BA", "Business Analyst", "Business Systems Analyst", "Systems Analyst"]
+roles = ["Business Analyst", "Business Systems Analyst", "Systems Analyst", "MI Development Consultant "]
 skills = ["Interviews"]
 title = "taxonomies"
 
