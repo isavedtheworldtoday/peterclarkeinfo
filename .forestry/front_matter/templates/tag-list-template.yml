@@ -27,5 +27,3 @@ fields:
   name: skills
   label: Skills
   description: Skills
-pages:
-- content/taxonomies.md
