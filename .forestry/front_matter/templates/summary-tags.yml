@@ -6,22 +6,24 @@ fields:
 - type: datetime
   name: date
   label: Date
-- type: select
+- type: list
   name: roles
+  label: Role
   config:
+    use_select: true
     source:
       type: documents
       file: content/taxonomies.md
       path: roles
-  label: Role
-- type: select
+- type: list
   name: organisations
+  label: Organisation
   config:
+    use_select: true
     source:
       type: documents
       file: content/taxonomies.md
       path: organisations
-  label: Organisation
 - type: list
   name: industries
   label: Industry
@@ -31,14 +33,15 @@ fields:
       type: documents
       file: content/taxonomies.md
       path: industries
-- type: select
+- type: list
   name: functions
+  label: Business function
   config:
+    use_select: true
     source:
       type: documents
       file: content/taxonomies.md
       path: functions
-  label: Business function
 - type: list
   name: areas
   label: Areas
