@@ -1,7 +1,7 @@
 +++
 areas = ["Fact finding"]
 business_function = ["Finance"]
-company = ["Financial Times"]
+company = ["Financial Times", "Aqovia"]
 date = ""
 functions = ["Finance"]
 industries = ["Media", "Automotive", "Travel"]
